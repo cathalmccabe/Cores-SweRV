@@ -1,7 +1,7 @@
 // NOTE NOTE NOTE NOTE NOTE NOTE NOTE NOTE NOTE NOTE NOTE NOTE NOTE NOTE NOTE NOTE
-// This is an automatically generated file by joseph.rahmeh on Tue Oct 15 13:13:16 PDT 2019
+// This is an automatically generated file by osboxes on Wed 19 Feb 07:06:38 EST 2020
 //
-// cmd:    swerv -snapshot=default -ahb_lite 
+// cmd:    swerv -snapshot=default 
 //
 
 `include "common_defines.vh"
