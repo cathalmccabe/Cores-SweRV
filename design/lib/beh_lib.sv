@@ -14,7 +14,7 @@
 // limitations under the License.
 
 // all flops call the rvdff flop
-
+`include "global.h"
 
 module rvdff #( parameter WIDTH=1 )
    ( 

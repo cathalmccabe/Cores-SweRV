@@ -20,6 +20,8 @@
 // Comments:
 //
 //********************************************************************************
+`include "global.h"
+
 module ahb_to_axi4 #(parameter TAG  = 1) (
 
    input                   clk,

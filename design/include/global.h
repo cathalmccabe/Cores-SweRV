@@ -12,6 +12,9 @@
 // WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 // See the License for the specific language governing permissions and
 // limitations under the License.
+`ifndef _GLOBAL_H_
+`define _GLOBAL_H_
+`include "pd_defines.vh"
 
 localparam TOTAL_INT        = `RV_PIC_TOTAL_INT_PLUS1;
 
@@ -48,4 +51,5 @@ localparam SB_BUS_TAG      = `RV_SB_BUS_TAG;
    
 localparam IFU_BUS_TAG     = `RV_IFU_BUS_TAG;
 
+`endif 
 
